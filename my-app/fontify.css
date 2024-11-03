@@ -1,0 +1,232 @@
+
+/*
+Thanks for using FonitfyJS here can you manage all of the proccesed fonts for your project, enjoy!
+*/
+@tailwind utilities;
+
+@font-face {
+    font-family: 'POPPINS_poppins_regular';
+    src: url('./public/fonts/fontify/poppins/poppins_regular.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'POPPINS_poppins_bolditalic';
+    src: url('./public/fonts/fontify/poppins/poppins_bolditalic.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'POPPINS_poppins_mediumitalic';
+    src: url('./public/fonts/fontify/poppins/poppins_mediumitalic.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'POPPINS_poppins_lightitalic';
+    src: url('./public/fonts/fontify/poppins/poppins_lightitalic.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'POPPINS_poppins_black';
+    src: url('./public/fonts/fontify/poppins/poppins_black.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'POPPINS_poppins_thinitalic';
+    src: url('./public/fonts/fontify/poppins/poppins_thinitalic.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'POPPINS_poppins_italic';
+    src: url('./public/fonts/fontify/poppins/poppins_italic.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'POPPINS_poppins_bold';
+    src: url('./public/fonts/fontify/poppins/poppins_bold.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'POPPINS_poppins_extralight';
+    src: url('./public/fonts/fontify/poppins/poppins_extralight.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'POPPINS_poppins_light';
+    src: url('./public/fonts/fontify/poppins/poppins_light.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'POPPINS_poppins_thin';
+    src: url('./public/fonts/fontify/poppins/poppins_thin.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'POPPINS_poppins_semibold';
+    src: url('./public/fonts/fontify/poppins/poppins_semibold.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'POPPINS_poppins_extralightitalic';
+    src: url('./public/fonts/fontify/poppins/poppins_extralightitalic.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'POPPINS_poppins_semibolditalic';
+    src: url('./public/fonts/fontify/poppins/poppins_semibolditalic.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'POPPINS_poppins_extrabolditalic';
+    src: url('./public/fonts/fontify/poppins/poppins_extrabolditalic.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'POPPINS_poppins_extrabold';
+    src: url('./public/fonts/fontify/poppins/poppins_extrabold.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'POPPINS_poppins_blackitalic';
+    src: url('./public/fonts/fontify/poppins/poppins_blackitalic.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'POPPINS_poppins_medium';
+    src: url('./public/fonts/fontify/poppins/poppins_medium.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'RALEWAY_raleway_medium';
+    src: url('./public/fonts/fontify/raleway/raleway_medium.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'RALEWAY_raleway_mediumitalic';
+    src: url('./public/fonts/fontify/raleway/raleway_mediumitalic.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'RALEWAY_raleway_lightitalic';
+    src: url('./public/fonts/fontify/raleway/raleway_lightitalic.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'RALEWAY_raleway_semibold';
+    src: url('./public/fonts/fontify/raleway/raleway_semibold.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'RALEWAY_raleway_bold';
+    src: url('./public/fonts/fontify/raleway/raleway_bold.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'RALEWAY_raleway_thin';
+    src: url('./public/fonts/fontify/raleway/raleway_thin.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'RALEWAY_raleway_italic';
+    src: url('./public/fonts/fontify/raleway/raleway_italic.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'RALEWAY_raleway_extralight';
+    src: url('./public/fonts/fontify/raleway/raleway_extralight.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'RALEWAY_raleway_light';
+    src: url('./public/fonts/fontify/raleway/raleway_light.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'RALEWAY_raleway_extrabold';
+    src: url('./public/fonts/fontify/raleway/raleway_extrabold.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'RALEWAY_raleway_italic_variablefont_wght';
+    src: url('./public/fonts/fontify/raleway/raleway_italic_variablefont_wght.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'RALEWAY_raleway_semibolditalic';
+    src: url('./public/fonts/fontify/raleway/raleway_semibolditalic.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'RALEWAY_raleway_regular';
+    src: url('./public/fonts/fontify/raleway/raleway_regular.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'RALEWAY_raleway_thinitalic';
+    src: url('./public/fonts/fontify/raleway/raleway_thinitalic.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'RALEWAY_raleway_blackitalic';
+    src: url('./public/fonts/fontify/raleway/raleway_blackitalic.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'RALEWAY_raleway_extrabolditalic';
+    src: url('./public/fonts/fontify/raleway/raleway_extrabolditalic.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'RALEWAY_raleway_extralightitalic';
+    src: url('./public/fonts/fontify/raleway/raleway_extralightitalic.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'RALEWAY_raleway_bolditalic';
+    src: url('./public/fonts/fontify/raleway/raleway_bolditalic.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'RALEWAY_raleway_black';
+    src: url('./public/fonts/fontify/raleway/raleway_black.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'RALEWAY_raleway_variablefont_wght';
+    src: url('./public/fonts/fontify/raleway/raleway_variablefont_wght.woff2') format('woff2');
+}
