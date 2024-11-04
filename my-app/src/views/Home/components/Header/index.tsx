@@ -102,7 +102,7 @@ export function Header({}: Props) {
               <motion.span
               className="ml-2 border-b-4 border-[rgb(0,255,255)] bg-gradient-to-t from-slate-500 to-white bg-clip-text text-transparent z-50"
               >
-                  waste time making a appointment?
+                  waste time making an appointment?
               </motion.span>
               <motion.div
               className="absolute w-full h-full bg-white opacity-45 top-0 left-0 z-0"

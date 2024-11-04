@@ -20,6 +20,10 @@ export const pathnames = {
     en: '/contact',
     es: '/contacto'
   },
+  '/schedule': {
+    en: '/schedule',
+    es: '/horario'
+  },
 
 }
 

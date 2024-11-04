@@ -7,7 +7,8 @@ export const navbarItems: [string, string][] = [
     ['Home', '/'],
     ['About', '/about'],
     ['Products', '/products'],
-    ['Contact', '/contact']
+    ['Contact', '/contact'],
+    ['Schulde', '/schedule'],
 ];
 
 const sizeSocialMediaItems: number = 24;
