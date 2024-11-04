@@ -23,7 +23,9 @@ const config: Config = {
       },
       // En lugar de gradientColorStops, usa backgroundImage o gradientColorStops así:
       backgroundImage: {
+        'gradientPrimaryT': 'linear-gradient(to top, #00A8CC, #006C84)',
         'gradientPrimaryL': 'linear-gradient(to left, #00A8CC, #006C84)',
+        'gradientBlackTextB': 'linear-gradient(to bottom, #ffffff, #64748B)',
       },
       // O si prefieres usar gradientColorStops:
       gradientColorStops: {

@@ -14,7 +14,7 @@ type Props = {
 
 
 export default function Home({}: Props) {
-  const t = useTranslations("Index");
+  //const t = useTranslations("Index");
 
   
   return (

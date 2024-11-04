@@ -28,7 +28,7 @@ export function Header({}: Props) {
                                     damping: 32,
                                 }}
                             >
-                                todo Mallorca.
+                                toda Mallorca.
                             </motion.span>
                             <motion.div
                                 className="absolute top-0 left-0 w-full h-full bg-white px-3 z-20"
